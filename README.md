@@ -2,7 +2,7 @@
 - 👀 I’m interested in gamedev, Unity3d, PyGame, MachineLearning, && AllAboutTechnologies
 - 🌱 I’m currently learning c# python, html, css, javascript
 - 💞️ I’m looking to collaborate on UnityCompany, freecode.org
-- 📫 How to reach me youtube chanel dclxviclan
+- 📫 How to reach me youtube chanel @dclxviclan
 
 <!---
 dclxviclan/dclxviclan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
