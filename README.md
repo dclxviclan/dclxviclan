@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dclxviclan
-- 👀 I’m interested in gamedev, Unity3d, PyGame, MachineLearning
+- 👀 I’m interested in gamedev, Unity3d, PyGame, MachineLearning, && AllAboutTechnologies
 - 🌱 I’m currently learning c# python, html, css, javascript
 - 💞️ I’m looking to collaborate on UnityCompany, freecode.org
 - 📫 How to reach me youtube chanel dclxviclan
