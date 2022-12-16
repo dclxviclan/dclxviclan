@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidclxviclan=anuraghazra&hide=contribs,prs)
 - 👋 Hi, I’m @dclxviclan
 - 👀 I’m interested in gamedev, Unity3d, PyGame, MachineLearning, && AllAboutTechnologies
 - 🌱 I’m currently learning c# python, html, css, javascript
