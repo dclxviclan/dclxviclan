@@ -1,4 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hello+⚠️🤖+howu+💬+jump+quickly)](https://git.io/typing-svg)
 ![](https://github.com/dclxviclan/happynewyearfemopresentapkgame/blob/main/Media_221211_122319.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=white+rabbit+find👀+truth+jump+quickly)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dclxviclan&hide=contribs,prs)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/miniGif_20221226043903.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=dclxviclan+network+game+studio+🤳🌐👽+for🤳🌐🎮)](https://git.io/typing-svg)
