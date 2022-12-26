@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning c# python, html, css, javascript
 - 💞️ I’m looking to collaborate on UnityCompany, freecode.org
 - 📫 How to reach me youtube chanel @dclxviclan
-
+PLAY QUICK https://dclxvistars.github.io
 <!---
 dclxviclan/dclxviclan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 //learning more
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/Media_221219_173639.gif)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/miniGif_20221128001409.gif)
+![](https://github.com/dclxviclan/FatalErrors/blob/main/20221226_042919.gif)
