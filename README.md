@@ -1,3 +1,4 @@
+![](https://github.com/dclxviclan/happynewyearfemopresentapkgame/blob/main/Media_221211_122319.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dclxviclan&hide=contribs,prs)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/miniGif_20221226043903.gif)
 - 👋 Hi, I’m @dclxviclan
