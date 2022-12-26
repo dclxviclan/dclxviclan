@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/Media_221219_173639.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=535&lines=ALL+LIFE+!$+.demo💤+jump+quickly)](https://git.io/typing-svg)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/miniGif_20221128001409.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=500&lines=and+MAIN+: Hello+₩0rld!🦸‍♂️+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=and+MAIN+: Hello+₩0rld!🦸‍♂️+jump+quickly)](https://git.io/typing-svg)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/20221226_042919.gif)
