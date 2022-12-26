@@ -1,3 +1,4 @@
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hello+⚠️🤖+howu+💬+jump+quickly)](https://git.io/typing-svg)
 ![](https://github.com/dclxviclan/happynewyearfemopresentapkgame/blob/main/Media_221211_122319.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=white+rabbit+find👀+truth+jump+quickly)](https://git.io/typing-svg)
