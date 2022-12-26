@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning c# python, html, css, javascript
 - 💞️ I’m looking to collaborate on UnityCompany, freecode.org
 - 📫 How to reach me youtube chanel @dclxviclan
+- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=450&lines=PLAY+NOW+🎃🎁+w🧞‍♂️💦+jump+quickly)](https://git.io/typing-svg)
 PLAY QUICK https://dclxvistars.github.io
 <!---
 dclxviclan/dclxviclan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +18,6 @@ You can click the Preview link to take a look at your changes.
 --->
 //learning more
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/Media_221219_173639.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=4000&width=535&lines=ALL+LIFE+!$+.demo💤+jump+quickly)](https://git.io/typing-svg)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/miniGif_20221128001409.gif)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/20221226_042919.gif)
