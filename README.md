@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning c# python, html, css, javascript
 - 💞️ I’m looking to collaborate on UnityCompany, freecode.org
 - 📫 How to reach me youtube chanel @dclxviclan
-- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dclxviclan)](https://github.com/dclxviclan/github-readme-stats)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=450&lines=PLAY+NOW+🎃🎁+w🧞‍♂️💦+jump+quickly)](https://git.io/typing-svg)
 PLAY QUICK https://dclxvistars.github.io
 <!---
