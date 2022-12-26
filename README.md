@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dclxviclan&hide=contribs,prs)
+![](https://github.com/dclxviclan/FatalErrors/blob/main/miniGif_20221226043903.gif)
 - 👋 Hi, I’m @dclxviclan
 - 👀 I’m interested in gamedev, Unity3d, PyGame, MachineLearning, && AllAboutTechnologies
 - 🌱 I’m currently learning c# python, html, css, javascript
