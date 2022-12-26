@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 //learning more
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/Media_221219_173639.gif)
+![](https://github.com/dclxviclan/FatalErrors/blob/main/miniGif_20221128001409.gif)
