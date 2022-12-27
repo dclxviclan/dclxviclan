@@ -1,4 +1,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+![](https://github.com/dclxviclan/FatalErrors/blob/main/Screenshot_20221227-100838_Yandex%20Start.jpg)
+~~where i can FIND HINT¿~~
 [![trophy](https://github-profile-trophy.vercel.app/?username=dclxviclan)](https://github.com/dclxviclan/github-profile-trophy)
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hello+⚠️🤖+howu+💬+jump+quickly)](https://git.io/typing-svg)
