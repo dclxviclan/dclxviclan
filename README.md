@@ -1,7 +1,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![](https://github.com/dclxviclan/happynewyearfemopresentapkgame/blob/main/Media_221228_025641.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52FF98&width=435&lines=where+i+can+find+u👽+hint)](https://git.io/typing-svg)
-![](https://github.com/dclxviclan/FatalErrors/blob/main/Screenshot_20221227-100838_Yandex%20Start.jpg)
+![](https://github.com/dclxviclan/happynewyearfemopresentapkgame/blob/main/miniGif_20221228031320.gif)
 ~~where i can FIND HINT¿~~
 [![trophy](https://github-profile-trophy.vercel.app/?username=dclxviclan)](https://github.com/dclxviclan/github-profile-trophy)
 
