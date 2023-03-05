@@ -42,5 +42,5 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=and+MAIN+:Hello+₩0rld!🦸‍♂️+jump+quickly)](https://git.io/typing-svg)
 ![](https://github.com/dclxviclan/FatalErrors/blob/main/20221226_042919.gif)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-![Snake animation](https://github.com/dclxviclan/dclxviclan/blob/output/github-contribution-grid-snake.svg) 
+![snake gif](https://github.com/dclxviclan/dclxviclan/blob/output/github-contribution-grid-snake.svg) 
 
